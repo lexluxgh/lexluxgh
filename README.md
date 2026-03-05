@@ -1,13 +1,13 @@
 ## Hi, I'm Lexlux 👋
 
-I'm a web and mobile app developer based in England
+A web and aspiring mobile app developer based in England
 
-I'm currently rebuilding and expanding my skills while working on practical projects and exploring new tools
+I'm currently rebuilding and expanding my skills while working on practical projects and learning new tools
 
-
-## Currently Working On 🌱
+# These days I'm focused on:
 
 - Rebuilding strong fundamentals in modern web development
+- Exploring mobile application development
 - Building small but meaningful projects
 - Getting comfortable again with modern frameworks and development workflows
 - Focusing on building technology that is thoughtful and intentional
