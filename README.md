@@ -2,8 +2,7 @@
 
 I'm a web and mobile app developer based in England
 
-After some time away from coding, I'm currently rebuilding and expanding my skills 
-while working on practical projects and exploring new tools
+I'm currently rebuilding and expanding my skills while working on practical projects and exploring new tools
 
 
 ## Currently Working On 🌱
