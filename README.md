@@ -4,7 +4,7 @@ A web and aspiring mobile app developer based in England
 
 I'm currently expanding my skills by working on practical projects with modern tools
 
-#### These days I'm focused on:
+#### Lately I'm focused on:
 
 - Rebuilding strong fundamentals in modern web development
 - Exploring mobile application development
