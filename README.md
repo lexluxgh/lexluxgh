@@ -2,10 +2,11 @@
 
 I'm a web and mobile app developer based in England
 
-After some time away from coding, I'm currently rebuilding and expanding my skills while working on practical projects and exploring new tools
+After some time away from coding, I'm currently rebuilding and expanding my skills 
+while working on practical projects and exploring new tools
 
 
-## What I'm Working On 🌱
+## Currently Working On 🌱
 
 - Rebuilding strong fundamentals in modern web development
 - Building small but meaningful projects
