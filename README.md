@@ -1,5 +1,4 @@
 ## Hi, I'm Lexlux 👋
-________________________________________________________________________________________________
 
 I'm a web and mobile app developer based in England
 
@@ -7,7 +6,6 @@ After some time away from coding, I'm currently rebuilding and expanding my skil
 
 
 ## What I'm Working On 🌱
-________________________________________________________________________________________________
 
 - Rebuilding strong fundamentals in modern web development
 - Building small but meaningful projects
