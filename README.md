@@ -2,7 +2,7 @@
 
 A web and aspiring mobile app developer based in England
 
-I'm currently rebuilding and expanding my skills while working on practical projects and learning new tools
+I'm currently expanding my skills by working on practical projects with modern tools
 
 #### These days I'm focused on:
 
