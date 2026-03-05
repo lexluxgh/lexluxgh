@@ -7,7 +7,7 @@ I'm currently expanding my skills by working on practical projects with modern t
 #### Lately I'm focusing on:
 
 - Rebuilding strong fundamentals in modern web development
-- Exploring mobile application development
+- Exploring mobile application processes
 - Getting comfortable again with modern frameworks
 - Ensuring technology is thoughtful and intentional
 
