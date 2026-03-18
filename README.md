@@ -1,4 +1,4 @@
-### Hi, I'm Lexlux 👋
+### 👋 Hi, I'm Lexlux
 
 A web and aspiring mobile app developer based in England
 
