@@ -1,15 +1,17 @@
-### 👋 Hi, I'm Lexlux
+### 👋 Hey, I'm Lexlux
 
-A web and aspiring mobile app developer based in England
+Web developer based in England.
 
-I'm currently expanding my skills by working on practical projects with modern tools
+Been out of the game for a bit. Now rebuilding my foundations and getting back into a solid rhythm.
 
-#### 🔴 Lately I'm focusing on: 
+🔴 Right now:
 
-- Rebuilding strong fundamentals in modern web development
-- Exploring mobile application processes 
-- Getting comfortable again with modern frameworks
-- Ensuring technology is thoughtful and intentional
+- improving fundamentals
+- creating consistently
+- relearning modern frameworks
+- moving toward real-world web and mobile apps
+
+Building in the open & tracking my growth along the way. 
 
 <!--
 **lexluxgh/lexluxgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
