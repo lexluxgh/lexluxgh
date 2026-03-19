@@ -2,7 +2,7 @@
 
 Web developer based in England
 
-Been out of the game for a bit 
+Been out of the game for a bit <br/>
 Now rebuilding my foundations and getting back into a solid rhythm
 
 🔴 Right now:
