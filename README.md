@@ -1,8 +1,9 @@
 ### 👋 Hey, I'm Lexlux
 
-Web developer based in England.
+Web developer based in England
 
-Been out of the game for a bit. Now rebuilding my foundations and getting back into a solid rhythm.
+Been out of the game for a bit 
+Now rebuilding my foundations and getting back into a solid rhythm
 
 🔴 Right now:
 
@@ -11,7 +12,7 @@ Been out of the game for a bit. Now rebuilding my foundations and getting back i
 - relearning modern frameworks
 - moving toward real-world web and mobile apps
 
-Building in the open & tracking my growth along the way. 
+Building in the open & tracking my growth along the way
 
 <!--
 **lexluxgh/lexluxgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
