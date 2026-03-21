@@ -12,7 +12,7 @@ Now rebuilding my foundations and getting back into a solid rhythm
 - relearning modern frameworks
 - moving toward real-world web and mobile apps
 
-Building in the open and tracking my growth along the way
+Building in the open
 
 <!--
 **lexluxgh/lexluxgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
